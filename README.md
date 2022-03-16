@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hunter
 
-I develop software using the latest and greatest technilogies - such as React Native and Next.js. 
+I develop software using the latest and greatest technologies - such as React Native and Next.js. 
 
 I also do all kinds of graphic design - including print design, CGI, and engaging social media content. 
 
