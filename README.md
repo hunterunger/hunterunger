@@ -1,4 +1,4 @@
-#👋 Hi, I’m Hunter
+# 👋 Hi, I’m Hunter
 
 I develop software using the latest and greatest technilogies - such as React Native and Next.js. 
 
