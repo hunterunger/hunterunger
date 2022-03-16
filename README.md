@@ -4,7 +4,7 @@ I develop software using the latest and greatest technilogies - such as React Na
 
 I also do all kinds of graphic design - including print design, CGI, and engaging social media content. 
 
-[See some of my word!](https://oxen.dev/)
+[Check out some of my work](https://oxen.dev/)
 
 I also like mountain biking, hiking, travel, and appreciating the Canadian outdoors. 🇨🇦
 
