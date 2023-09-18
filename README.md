@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Hunter
+# 👋 Hi, I’m Hunter Unger, Engineer and Operations Manager at Oxen.dev
 
 I do full-stack development using the latest and greatest technologies on the web, mobile, and in the cloud.
 
-I also love engineering. Raspberry Pis, 3D printing, and enterprise networks are some examples of what I've worked with. 
+Developing hardware, AI and Machine Learning, Big Data analytics, and frondend design is what I engineer most often!
 
-...AND I also do all kinds of graphic design - including print design, CGI, animation, and all sorts of social media content. 
+...and I also do all kinds of graphic design - including print design, CGI, animation, and UI/UX. 
 
 [Check out some of my work](https://oxen.dev/)
 
