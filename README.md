@@ -1,3 +1,5 @@
+![Hunter Unger cover banner png](banner.png)
+
 # 👋 Hi, I’m Hunter Unger, Software Engineer and Operations Manager at Oxen.dev
 
 I do full-stack development using the latest and greatest technologies on the web, mobile, and in the cloud.
